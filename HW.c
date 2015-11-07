@@ -1,3 +1,3 @@
-void main2()
+void main4()
 {
 }
