@@ -1,4 +1,4 @@
-void main()
+void main2()
 {
   // comment
 }
